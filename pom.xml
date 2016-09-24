@@ -9,6 +9,7 @@
     <version>2.4.1</version>
     <name>jersey-quickstart-webapp</name>
 
+
     <build>
         <finalName>jersey-quickstart-webapp</finalName>
         <plugins>
